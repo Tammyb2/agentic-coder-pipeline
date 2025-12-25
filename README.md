@@ -30,7 +30,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/langgraph-engineer.git
+git clone https://github.com/Tammyb2/langgraph-engineer.git
 cd langgraph-engineer
 Install dependencies:
 
@@ -53,3 +53,4 @@ states.py: Contains Pydantic schemas for project plans and agent states.
 tools.py: Provides the filesystem and shell tools used by the Coder.
 
 prompts.py: Houses the specialized system instructions for each agent.
+
