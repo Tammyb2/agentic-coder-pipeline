@@ -43,7 +43,7 @@ Run the main entry point and provide a prompt when requested:
 Bash
 
 python main.py
-Example prompt: "Create a simple calculator web application using Flask."
+Example prompt: "Create a Todo list app."
 
 📂 Project Structure
 graph.py: Defines the LangGraph state machine and agent nodes.
@@ -53,4 +53,5 @@ states.py: Contains Pydantic schemas for project plans and agent states.
 tools.py: Provides the filesystem and shell tools used by the Coder.
 
 prompts.py: Houses the specialized system instructions for each agent.
+
 
